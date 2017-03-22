@@ -1,0 +1,10 @@
+E:\vs projects\EditngEasier\EditngEasier\bin\Debug\EditngEasier.exe.config
+E:\vs projects\EditngEasier\EditngEasier\bin\Debug\EditngEasier.exe
+E:\vs projects\EditngEasier\EditngEasier\bin\Debug\EditngEasier.pdb
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.csprojResolveAssemblyReference.cache
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.Form1.resources
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.Properties.Resources.resources
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.csproj.GenerateResource.Cache
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.exe
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.pdb
+E:\vs projects\EditngEasier\EditngEasier\obj\Debug\EditngEasier.frmDbUpdateCommand.resources
